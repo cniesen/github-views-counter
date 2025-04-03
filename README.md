@@ -1,61 +1,414 @@
-# 🚀 GitHub Profile Views Counter [<img alt="Image of my-profile-view-counter" src="https://github.com/gayanvoice/my-profile-view-counter/blob/master/graph/372372861/small/week.png" height="20">](https://github.com/gayanvoice/my-profile-view-counter/blob/master/readme/372372861/week.md)
+## [🚀 GitHub Profile Views Counter](https://github.com/gayanvoice/github-profile-views-counter)
+**GitHub Profile Views Counter** is an opensource project that powered entirely by  `GitHub Actions` to fetch and store insights of repositories.
+It uses `GitHub API` to fetch the insight data of your repositories and commits changes into a separate repository.
 
-[![Image of my-profile-view-counter](https://github.com/gayanvoice/my-profile-view-counter/blob/master/svg/372372861/badge.svg)](https://github.com/gayanvoice/my-profile-view-counter/blob/master/readme/372372861/week.md)
+The project created and maintained by [gayanvoice](https://github.com/gayanvoice). Don't forget to follow him on [GitHub](https://github.com/gayanvoice), [Twitter](https://twitter.com/gayanvoice), and [Medium](https://gayanvoice.medium.com/).
 
- 
-Many GitHub page views counters are not stable as it seems. Any service disruptions or simply removal of these services can lose your profile views. Use this GitHub Action to record changes. It generates badges, charts, and tables for each repository and a badge for total views for your profile.
+<table>
+	<tr>
+		<th>
+			Repository
+		</th>
+		<th>
+			Last Updated
+		</th>
+		<th>
+			Unique
+		</th>
+		<th>
+			Views
+		</th>
+	</tr>
+	<tr>
+		<td>
+			<a href="https://github.com/cniesen/github-views-counter/tree/master/readme/13356146/week.md">
+				ArduinoPedestrianTrafficLight
+			</a>
+		</td>
+		<td>
+			2025/3/31 1:06 PM UTC
+		</td>
+		<td>
+			1
+		</td>
+		<td>
+			<img alt="Response time graph" src="https://github.com/cniesen/github-views-counter/raw/master/graph/13356146/small/week.png" height="20"> 1
+		</td>
+	</tr>
+	<tr>
+		<td>
+			<a href="https://github.com/cniesen/github-views-counter/tree/master/readme/228863331/week.md">
+				azure-gradle-function
+			</a>
+		</td>
+		<td>
+			2025/3/31 1:06 PM UTC
+		</td>
+		<td>
+			0
+		</td>
+		<td>
+			<img alt="Response time graph" src="https://github.com/cniesen/github-views-counter/raw/master/graph/228863331/small/week.png" height="20"> 0
+		</td>
+	</tr>
+	<tr>
+		<td>
+			<a href="https://github.com/cniesen/github-views-counter/tree/master/readme/461256113/week.md">
+				chirp
+			</a>
+		</td>
+		<td>
+			2025/3/31 1:07 PM UTC
+		</td>
+		<td>
+			0
+		</td>
+		<td>
+			<img alt="Response time graph" src="https://github.com/cniesen/github-views-counter/raw/master/graph/461256113/small/week.png" height="20"> 0
+		</td>
+	</tr>
+	<tr>
+		<td>
+			<a href="https://github.com/cniesen/github-views-counter/tree/master/readme/109631138/week.md">
+				CodeWarsJava
+			</a>
+		</td>
+		<td>
+			2025/3/31 1:07 PM UTC
+		</td>
+		<td>
+			0
+		</td>
+		<td>
+			<img alt="Response time graph" src="https://github.com/cniesen/github-views-counter/raw/master/graph/109631138/small/week.png" height="20"> 0
+		</td>
+	</tr>
+	<tr>
+		<td>
+			<a href="https://github.com/cniesen/github-views-counter/tree/master/readme/105152305/week.md">
+				custom-okta-signin-widget
+			</a>
+		</td>
+		<td>
+			2025/3/31 1:07 PM UTC
+		</td>
+		<td>
+			0
+		</td>
+		<td>
+			<img alt="Response time graph" src="https://github.com/cniesen/github-views-counter/raw/master/graph/105152305/small/week.png" height="20"> 0
+		</td>
+	</tr>
+	<tr>
+		<td>
+			<a href="https://github.com/cniesen/github-views-counter/tree/master/readme/28012240/week.md">
+				GarageSpring
+			</a>
+		</td>
+		<td>
+			2025/3/31 1:08 PM UTC
+		</td>
+		<td>
+			0
+		</td>
+		<td>
+			<img alt="Response time graph" src="https://github.com/cniesen/github-views-counter/raw/master/graph/28012240/small/week.png" height="20"> 0
+		</td>
+	</tr>
+	<tr>
+		<td>
+			<a href="https://github.com/cniesen/github-views-counter/tree/master/readme/820744089/week.md">
+				GaugeExample
+			</a>
+		</td>
+		<td>
+			2025/3/31 1:08 PM UTC
+		</td>
+		<td>
+			0
+		</td>
+		<td>
+			<img alt="Response time graph" src="https://github.com/cniesen/github-views-counter/raw/master/graph/820744089/small/week.png" height="20"> 0
+		</td>
+	</tr>
+	<tr>
+		<td>
+			<a href="https://github.com/cniesen/github-views-counter/tree/master/readme/959841029/week.md">
+				github-views-counter
+			</a>
+		</td>
+		<td>
+			2025/3/31 1:09 PM UTC
+		</td>
+		<td>
+			0
+		</td>
+		<td>
+			<img alt="Response time graph" src="https://github.com/cniesen/github-views-counter/raw/master/graph/959841029/small/week.png" height="20"> 0
+		</td>
+	</tr>
+	<tr>
+		<td>
+			<a href="https://github.com/cniesen/github-views-counter/tree/master/readme/31437827/week.md">
+				GitHubBackup
+			</a>
+		</td>
+		<td>
+			2025/3/31 1:09 PM UTC
+		</td>
+		<td>
+			0
+		</td>
+		<td>
+			<img alt="Response time graph" src="https://github.com/cniesen/github-views-counter/raw/master/graph/31437827/small/week.png" height="20"> 0
+		</td>
+	</tr>
+	<tr>
+		<td>
+			<a href="https://github.com/cniesen/github-views-counter/tree/master/readme/168615078/week.md">
+				gradledemo
+			</a>
+		</td>
+		<td>
+			2025/3/31 1:09 PM UTC
+		</td>
+		<td>
+			0
+		</td>
+		<td>
+			<img alt="Response time graph" src="https://github.com/cniesen/github-views-counter/raw/master/graph/168615078/small/week.png" height="20"> 0
+		</td>
+	</tr>
+	<tr>
+		<td>
+			<a href="https://github.com/cniesen/github-views-counter/tree/master/readme/616172503/week.md">
+				HammyWammy
+			</a>
+		</td>
+		<td>
+			2025/3/31 1:10 PM UTC
+		</td>
+		<td>
+			0
+		</td>
+		<td>
+			<img alt="Response time graph" src="https://github.com/cniesen/github-views-counter/raw/master/graph/616172503/small/week.png" height="20"> 0
+		</td>
+	</tr>
+	<tr>
+		<td>
+			<a href="https://github.com/cniesen/github-views-counter/tree/master/readme/212204071/week.md">
+				HelloWorld
+			</a>
+		</td>
+		<td>
+			2025/3/31 1:10 PM UTC
+		</td>
+		<td>
+			0
+		</td>
+		<td>
+			<img alt="Response time graph" src="https://github.com/cniesen/github-views-counter/raw/master/graph/212204071/small/week.png" height="20"> 0
+		</td>
+	</tr>
+	<tr>
+		<td>
+			<a href="https://github.com/cniesen/github-views-counter/tree/master/readme/248650050/week.md">
+				IcomClockOmniRig
+			</a>
+		</td>
+		<td>
+			2025/3/31 1:10 PM UTC
+		</td>
+		<td>
+			1
+		</td>
+		<td>
+			<img alt="Response time graph" src="https://github.com/cniesen/github-views-counter/raw/master/graph/248650050/small/week.png" height="20"> 1
+		</td>
+	</tr>
+	<tr>
+		<td>
+			<a href="https://github.com/cniesen/github-views-counter/tree/master/readme/258410215/week.md">
+				MediacomInternetDataUsageMonitorAndAlert
+			</a>
+		</td>
+		<td>
+			2025/3/31 1:11 PM UTC
+		</td>
+		<td>
+			0
+		</td>
+		<td>
+			<img alt="Response time graph" src="https://github.com/cniesen/github-views-counter/raw/master/graph/258410215/small/week.png" height="20"> 0
+		</td>
+	</tr>
+	<tr>
+		<td>
+			<a href="https://github.com/cniesen/github-views-counter/tree/master/readme/132309199/week.md">
+				morsetrainer
+			</a>
+		</td>
+		<td>
+			2025/3/31 1:11 PM UTC
+		</td>
+		<td>
+			6
+		</td>
+		<td>
+			<img alt="Response time graph" src="https://github.com/cniesen/github-views-counter/raw/master/graph/132309199/small/week.png" height="20"> 14
+		</td>
+	</tr>
+	<tr>
+		<td>
+			<a href="https://github.com/cniesen/github-views-counter/tree/master/readme/328029660/week.md">
+				multi-branch-merge
+			</a>
+		</td>
+		<td>
+			2025/3/31 1:12 PM UTC
+		</td>
+		<td>
+			0
+		</td>
+		<td>
+			<img alt="Response time graph" src="https://github.com/cniesen/github-views-counter/raw/master/graph/328029660/small/week.png" height="20"> 0
+		</td>
+	</tr>
+	<tr>
+		<td>
+			<a href="https://github.com/cniesen/github-views-counter/tree/master/readme/18067019/week.md">
+				MysteryColors-Exercise
+			</a>
+		</td>
+		<td>
+			2025/3/31 1:12 PM UTC
+		</td>
+		<td>
+			0
+		</td>
+		<td>
+			<img alt="Response time graph" src="https://github.com/cniesen/github-views-counter/raw/master/graph/18067019/small/week.png" height="20"> 0
+		</td>
+	</tr>
+	<tr>
+		<td>
+			<a href="https://github.com/cniesen/github-views-counter/tree/master/readme/231881532/week.md">
+				NetLoggerElf
+			</a>
+		</td>
+		<td>
+			2025/3/31 1:12 PM UTC
+		</td>
+		<td>
+			0
+		</td>
+		<td>
+			<img alt="Response time graph" src="https://github.com/cniesen/github-views-counter/raw/master/graph/231881532/small/week.png" height="20"> 0
+		</td>
+	</tr>
+	<tr>
+		<td>
+			<a href="https://github.com/cniesen/github-views-counter/tree/master/readme/172365779/week.md">
+				okta-springboot-example
+			</a>
+		</td>
+		<td>
+			2025/3/31 1:13 PM UTC
+		</td>
+		<td>
+			0
+		</td>
+		<td>
+			<img alt="Response time graph" src="https://github.com/cniesen/github-views-counter/raw/master/graph/172365779/small/week.png" height="20"> 0
+		</td>
+	</tr>
+	<tr>
+		<td>
+			<a href="https://github.com/cniesen/github-views-counter/tree/master/readme/306941413/week.md">
+				OpenBSDRouterDoc
+			</a>
+		</td>
+		<td>
+			2025/3/31 1:13 PM UTC
+		</td>
+		<td>
+			0
+		</td>
+		<td>
+			<img alt="Response time graph" src="https://github.com/cniesen/github-views-counter/raw/master/graph/306941413/small/week.png" height="20"> 0
+		</td>
+	</tr>
+	<tr>
+		<td>
+			<a href="https://github.com/cniesen/github-views-counter/tree/master/readme/273390765/week.md">
+				PotaLogger
+			</a>
+		</td>
+		<td>
+			2025/3/31 1:13 PM UTC
+		</td>
+		<td>
+			3
+		</td>
+		<td>
+			<img alt="Response time graph" src="https://github.com/cniesen/github-views-counter/raw/master/graph/273390765/small/week.png" height="20"> 4
+		</td>
+	</tr>
+	<tr>
+		<td>
+			<a href="https://github.com/cniesen/github-views-counter/tree/master/readme/34595257/week.md">
+				ringtonescheduler
+			</a>
+		</td>
+		<td>
+			2025/3/31 1:14 PM UTC
+		</td>
+		<td>
+			0
+		</td>
+		<td>
+			<img alt="Response time graph" src="https://github.com/cniesen/github-views-counter/raw/master/graph/34595257/small/week.png" height="20"> 0
+		</td>
+	</tr>
+	<tr>
+		<td>
+			<a href="https://github.com/cniesen/github-views-counter/tree/master/readme/645483333/week.md">
+				SpringBootJSPApplication
+			</a>
+		</td>
+		<td>
+			2025/3/31 1:14 PM UTC
+		</td>
+		<td>
+			1
+		</td>
+		<td>
+			<img alt="Response time graph" src="https://github.com/cniesen/github-views-counter/raw/master/graph/645483333/small/week.png" height="20"> 1
+		</td>
+	</tr>
+</table>
 
-## ▶️ Watch
-[![How to Setup GitHub Profile Views Counter for your GitHub profile](https://img.youtube.com/vi/K6FYiP_XRuU/0.jpg)](https://www.youtube.com/watch?v=K6FYiP_XRuU)
+<small><i>Last updated on 2025/4/3 1:15 PM UTC</i></small>
 
-## Why do you need 🚀 GitHub Profile Views Counter?
-The main problem of using external services is what you do when they cut off their services? You will see a broken URL of the SVG you used to see profile views, and the next thing is you already lost thousands of profile views.
+## ✂️Copy and 📋 Paste
+### Total Views Badge
+[![Image of https://github.com/cniesen/github-views-counter](https://github.com/cniesen/github-views-counter/blob/master/svg/profile/badge.svg)](https://github.com/cniesen/github-views-counter)
 
-But this GitHub Profile Views Counter is different from others. It’s a public repository in your profile, and it stores all the data and SVG files. So you don’t lose anything, and it updates the page views every 6 hours. It fetches insights data of your repository from GitHub API. It records the number of unique visitors and also page views.
+```readme
+[![Image of https://github.com/cniesen/github-views-counter](https://github.com/cniesen/github-views-counter/blob/master/svg/profile/badge.svg)](https://github.com/cniesen/github-views-counter)
+```
+[**Set up GitHub Profile Views Counter for your repositories**](https://github.com/gayanvoice/github-profile-views-counter)
+## ⛔ DO NOT
+- Do not commit any changes to `./cache` directory. This feature helps to integrity of the records for visitors.
+- The app will automatically stop measuring insights until you revoke those commits.
+## 📦 Third party
 
-## Features
-**Charts —** The action generates charts for the week, month, and year. The below chart is for the week for a repository. Go to gayanvoice/my-profile-view-counter to see how it works.
-
-**Tables —** The action generates charts for the week, month, and year.
-## Setup
-**1 —** 🚀 Go to gayanvoice/github-profile-views-counter and click on **Use this template** button to create a new repository
-
-By using a template you don’t need to create the files from scratch, and all you need is to change the configuration.
-
-![GitHub Profile Views Counter - Click on Use this template button to create a new repository](https://miro.medium.com/max/600/1*wvbb87wOd1wCHKJh06vjPA.png)
-
-
-**2 —** ⚡️ Enter a **repository name** and select repository type to **public repository** and click on **Create repository from template** button
-
-You can give any name for the repository. You need to select repository type to public. Because GitHub provides an unlimited number of action minutes for public repositories.
-
-If you choose private, the free usage will limit to 2000 minutes per month. Go to GitHub Pricing page for more pricing plans.
-
-![GitHub Profile Views Counter - Click on create repository from template button to create the repository](https://miro.medium.com/max/600/1*hHdIM_fVnkdVdQGrbL1jRA.png)
-
-After you click on **Create repository from template** button, it will take some time to create the repository.
-
-**3 —** 🔒 Create a new personal access token with **repo** and **workflow** options
-
-Go to Personal Access Tokens and click on Generate new token button. Give it any name and select repo and workflow options and click on Generate token button. ✂️ Copy the token.
-
-![GitHub Profile Views Counter - create a new personal access token with repo and workflow options](https://miro.medium.com/max/700/1*YMft8U6IYTpBg7C5cASDUA.png)
-
-**4 —** 🔑 Go to your profile views counter repository and go to **Settings**, and select **Secrets** option from left side bar. Click on **New repository secret** button and enter **name** as **INSIGHTS_TOKEN** and 📋 paste the **personal access token** under **value**. Click on **Add secret** button.
-
-![GitHub Profile Views Counter - add repository secret by using repository secrets](https://miro.medium.com/max/700/1*jLtkxQNj2qrGcc4bLIvw3A.png)
-
-**5 —** 📄 Go to your profile views counter repository. Go to **config.json** and click on edit button. Add repository names.
-
-![GitHub Profile Views Counter - edit config.json file to add repository names](https://miro.medium.com/max/700/1*35wJBw75Fp5D_5t-fhaT_g.png)
-
-**6 —** Go to your profile views counter repository and click on Actions tab. Select the workflow and click on **Run workflow** button.
-
-![GitHub Profile Views Counter - click on run workflow button](https://miro.medium.com/max/700/1*hKkJ9EXlK14b3H3SeCNk4Q.png)
-
-It will take few minutes depends on number of repositories you have entered to the workflow. It will generate total views badge, repository badges, and markdown files.
-
+- [@octokit/rest](https://www.npmjs.com/package/@octokit/rest) - Send REST API requests to GitHub.
+- [fs-extra](https://www.npmjs.com/package/fs-extra) - Creating directories and files.
+- [simple-git](https://www.npmjs.com/package/simple-git) - Handling Git commands.
+- [node-chart-exec](https://www.npmjs.com/package/node-chart-exec) - Generate graphs.
 ## 📄 License
-- Repository: [gayanvoice/github-profile-views-counter](https://github.com/gayanvoice/github-profile-views-counter)
-- Source - [gayanvoice/github-insights](https://github.com/gayanvoice/github-insights)
-- Code: [MIT](./LICENSE) © [Gayan Kuruppu](https://github.com/gayanvoice)
+- Powered by: [GitHub Profile Views Counter](https://github.com/gayanvoice/github-profile-views-counter)
+- Code: [MIT](./LICENSE) © [gayanvoice](https://github.com/gayanvoice)
+- Data in the `./cache` directory: [Open Database License](https://opendatacommons.org/licenses/odbl/1-0/)
