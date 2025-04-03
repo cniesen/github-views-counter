@@ -1,8 +1,32 @@
 {
   "devMode": "false",
-  "advancedMode": "false",
+  "advancedMode": "true",
   "language": "en-US",
   "repository": [
-    "repository-name"
+    "ArduinoPedestrianTrafficLight",
+    "azure-gradle-function",
+    "asure-mvn-function",
+    "chirp",
+    "CodeWarsJava",
+    "custom-okta-signin-widget",
+    "for-vs-recrsive-loops",
+    "GarageSpring",
+    "GaugeExample",
+    "github-views-counter",
+    "GitHubBackup",
+    "gradledemo",
+    "HammyWammy",
+    "HelloWorld",
+    "IcomClockOmniRig",
+    "MediacomInternetDataUsageMonitorAndAlert",
+    "morsetrainer",
+    "multi-branch-merge",
+    "MysteryColors-Exercise",
+    "NetLoggerElf",
+    "okta-springboot-example",
+    "OpenBSDRouterDoc",
+    "PotaLogger",
+    "ringtonescheduler",
+    "SpringBootJSPApplication"
   ]
 }
