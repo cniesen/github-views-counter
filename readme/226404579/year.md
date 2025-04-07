@@ -2,7 +2,7 @@
 | [**Week →**](https://github.com/cniesen/github-views-counter/blob/master/readme/226404579/week.md) | [**Month →**](https://github.com/cniesen/github-views-counter/blob/master/readme/226404579/month.md) | [**Year →**](https://github.com/cniesen/github-views-counter/blob/master/readme/226404579/year.md) |
 | ---- | ---- | ----- |
 ### :octocat: [cqqrz/cqqrz.github.io](https://github.com/cqqrz/cqqrz.github.io)
-![Image of cqqrz/undefined](https://github.com/cniesen/github-views-counter/blob/master/graph/226404579/large/year.png)
+![Image of github-views-counter](https://github.com/cniesen/github-views-counter/blob/master/graph/226404579/large/year.png)
 
 <details>
 	<summary>Click to expand table</summary>
@@ -165,18 +165,18 @@
 </table>
 
 </details>
-<small><i>Last updated on 2025/4/7 9:37 PM UTC</i></small>
+<small><i>Last updated on 2025/4/7 10:56 PM UTC</i></small>
 
 ## ✂️Copy and 📋 Paste
 ### SVG Badge
-[![Image of cqqrz/undefined](https://github.com/cniesen/github-views-counter/blob/master/svg/226404579/badge.svg)](https://github.com/cniesen/github-views-counter/blob/master/readme/226404579/week.md)
+[![Image github-views-counter](https://github.com/cniesen/github-views-counter/blob/master/svg/226404579/badge.svg)](https://github.com/cniesen/github-views-counter/blob/master/readme/226404579/week.md)
 ```readme
-[![Image of cqqrz/undefined](https://github.com/cniesen/github-views-counter/blob/master/svg/226404579/badge.svg)](https://github.com/cniesen/github-views-counter/blob/master/readme/226404579/week.md)
+[![Image github-views-counter](https://github.com/cniesen/github-views-counter/blob/master/svg/226404579/badge.svg)](https://github.com/cniesen/github-views-counter/blob/master/readme/226404579/week.md)
 ```
 ### Header
-# cqqrz/cqqrz.github.io [<img alt="Image of cqqrz/[object Object]" src="https://github.com/cniesen/github-views-counter/blob/master/graph/226404579/small/week.png" height="20">](https://github.com/cniesen/github-views-counter/blob/master/readme/226404579/week.md)
+# cqqrz/cqqrz.github.io [<img alt="Image of github-views-counter" src="https://github.com/cniesen/github-views-counter/blob/master/graph/226404579/small/week.png" height="20">](https://github.com/cniesen/github-views-counter/blob/master/readme/226404579/week.md)
 ```readme
-# cqqrz/cqqrz.github.io [<img alt="Image of cqqrz/[object Object]" src="https://github.com/cniesen/github-views-counter/blob/master/graph/226404579/small/week.png" height="20">](https://github.com/cniesen/github-views-counter/blob/master/readme/226404579/week.md)
+# cqqrz/cqqrz.github.io [<img alt="Image of github-views-counter" src="https://github.com/cniesen/github-views-counter/blob/master/graph/226404579/small/week.png" height="20">](https://github.com/cniesen/github-views-counter/blob/master/readme/226404579/week.md)
 ```
 [**Set up GitHub Profile Views Counter for your repositories**](https://github.com/gayanvoice/github-profile-views-counter)
 ## ⛔ DO NOT

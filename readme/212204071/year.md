@@ -2,7 +2,7 @@
 | [**Week →**](https://github.com/cniesen/github-views-counter/blob/master/readme/212204071/week.md) | [**Month →**](https://github.com/cniesen/github-views-counter/blob/master/readme/212204071/month.md) | [**Year →**](https://github.com/cniesen/github-views-counter/blob/master/readme/212204071/year.md) |
 | ---- | ---- | ----- |
 ### :octocat: [cniesen/HelloWorld](https://github.com/cniesen/HelloWorld)
-![Image of cniesen/undefined](https://github.com/cniesen/github-views-counter/blob/master/graph/212204071/large/year.png)
+![Image of github-views-counter](https://github.com/cniesen/github-views-counter/blob/master/graph/212204071/large/year.png)
 
 <details>
 	<summary>Click to expand table</summary>
@@ -165,18 +165,18 @@
 </table>
 
 </details>
-<small><i>Last updated on 2025/4/7 9:32 PM UTC</i></small>
+<small><i>Last updated on 2025/4/7 10:51 PM UTC</i></small>
 
 ## ✂️Copy and 📋 Paste
 ### SVG Badge
-[![Image of cniesen/undefined](https://github.com/cniesen/github-views-counter/blob/master/svg/212204071/badge.svg)](https://github.com/cniesen/github-views-counter/blob/master/readme/212204071/week.md)
+[![Image github-views-counter](https://github.com/cniesen/github-views-counter/blob/master/svg/212204071/badge.svg)](https://github.com/cniesen/github-views-counter/blob/master/readme/212204071/week.md)
 ```readme
-[![Image of cniesen/undefined](https://github.com/cniesen/github-views-counter/blob/master/svg/212204071/badge.svg)](https://github.com/cniesen/github-views-counter/blob/master/readme/212204071/week.md)
+[![Image github-views-counter](https://github.com/cniesen/github-views-counter/blob/master/svg/212204071/badge.svg)](https://github.com/cniesen/github-views-counter/blob/master/readme/212204071/week.md)
 ```
 ### Header
-# cniesen/HelloWorld [<img alt="Image of cniesen/[object Object]" src="https://github.com/cniesen/github-views-counter/blob/master/graph/212204071/small/week.png" height="20">](https://github.com/cniesen/github-views-counter/blob/master/readme/212204071/week.md)
+# cniesen/HelloWorld [<img alt="Image of github-views-counter" src="https://github.com/cniesen/github-views-counter/blob/master/graph/212204071/small/week.png" height="20">](https://github.com/cniesen/github-views-counter/blob/master/readme/212204071/week.md)
 ```readme
-# cniesen/HelloWorld [<img alt="Image of cniesen/[object Object]" src="https://github.com/cniesen/github-views-counter/blob/master/graph/212204071/small/week.png" height="20">](https://github.com/cniesen/github-views-counter/blob/master/readme/212204071/week.md)
+# cniesen/HelloWorld [<img alt="Image of github-views-counter" src="https://github.com/cniesen/github-views-counter/blob/master/graph/212204071/small/week.png" height="20">](https://github.com/cniesen/github-views-counter/blob/master/readme/212204071/week.md)
 ```
 [**Set up GitHub Profile Views Counter for your repositories**](https://github.com/gayanvoice/github-profile-views-counter)
 ## ⛔ DO NOT

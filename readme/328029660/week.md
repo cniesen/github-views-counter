@@ -2,7 +2,7 @@
 | [**Week →**](https://github.com/cniesen/github-views-counter/blob/master/readme/328029660/week.md) | [**Month →**](https://github.com/cniesen/github-views-counter/blob/master/readme/328029660/month.md) | [**Year →**](https://github.com/cniesen/github-views-counter/blob/master/readme/328029660/year.md) |
 | ---- | ---- | ----- |
 ### :octocat: [cniesen/multi-branch-merge](https://github.com/cniesen/multi-branch-merge)
-![Image of cniesen/undefined](https://github.com/cniesen/github-views-counter/blob/master/graph/328029660/large/week.png)
+![Image of github-views-counter](https://github.com/cniesen/github-views-counter/blob/master/graph/328029660/large/week.png)
 
 <details>
 	<summary>Click to expand table</summary>
@@ -110,18 +110,18 @@
 </table>
 
 </details>
-<small><i>Last updated on 2025/4/7 9:34 PM UTC</i></small>
+<small><i>Last updated on 2025/4/7 10:53 PM UTC</i></small>
 
 ## ✂️Copy and 📋 Paste
 ### SVG Badge
-[![Image of cniesen/undefined](https://github.com/cniesen/github-views-counter/blob/master/svg/328029660/badge.svg)](https://github.com/cniesen/github-views-counter/blob/master/readme/328029660/week.md)
+[![Image github-views-counter](https://github.com/cniesen/github-views-counter/blob/master/svg/328029660/badge.svg)](https://github.com/cniesen/github-views-counter/blob/master/readme/328029660/week.md)
 ```readme
-[![Image of cniesen/undefined](https://github.com/cniesen/github-views-counter/blob/master/svg/328029660/badge.svg)](https://github.com/cniesen/github-views-counter/blob/master/readme/328029660/week.md)
+[![Image github-views-counter](https://github.com/cniesen/github-views-counter/blob/master/svg/328029660/badge.svg)](https://github.com/cniesen/github-views-counter/blob/master/readme/328029660/week.md)
 ```
 ### Header
-# cniesen/multi-branch-merge [<img alt="Image of cniesen/[object Object]" src="https://github.com/cniesen/github-views-counter/blob/master/graph/328029660/small/week.png" height="20">](https://github.com/cniesen/github-views-counter/blob/master/readme/328029660/week.md)
+# cniesen/multi-branch-merge [<img alt="Image of github-views-counter" src="https://github.com/cniesen/github-views-counter/blob/master/graph/328029660/small/week.png" height="20">](https://github.com/cniesen/github-views-counter/blob/master/readme/328029660/week.md)
 ```readme
-# cniesen/multi-branch-merge [<img alt="Image of cniesen/[object Object]" src="https://github.com/cniesen/github-views-counter/blob/master/graph/328029660/small/week.png" height="20">](https://github.com/cniesen/github-views-counter/blob/master/readme/328029660/week.md)
+# cniesen/multi-branch-merge [<img alt="Image of github-views-counter" src="https://github.com/cniesen/github-views-counter/blob/master/graph/328029660/small/week.png" height="20">](https://github.com/cniesen/github-views-counter/blob/master/readme/328029660/week.md)
 ```
 [**Set up GitHub Profile Views Counter for your repositories**](https://github.com/gayanvoice/github-profile-views-counter)
 ## ⛔ DO NOT

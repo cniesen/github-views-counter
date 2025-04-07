@@ -2,7 +2,7 @@
 | [**Week →**](https://github.com/cniesen/github-views-counter/blob/master/readme/13356146/week.md) | [**Month →**](https://github.com/cniesen/github-views-counter/blob/master/readme/13356146/month.md) | [**Year →**](https://github.com/cniesen/github-views-counter/blob/master/readme/13356146/year.md) |
 | ---- | ---- | ----- |
 ### :octocat: [cniesen/ArduinoPedestrianTrafficLight](https://github.com/cniesen/ArduinoPedestrianTrafficLight)
-![Image of cniesen/undefined](https://github.com/cniesen/github-views-counter/blob/master/graph/13356146/large/week.png)
+![Image of github-views-counter](https://github.com/cniesen/github-views-counter/blob/master/graph/13356146/large/week.png)
 
 <details>
 	<summary>Click to expand table</summary>
@@ -110,18 +110,18 @@
 </table>
 
 </details>
-<small><i>Last updated on 2025/4/7 9:28 PM UTC</i></small>
+<small><i>Last updated on 2025/4/7 10:47 PM UTC</i></small>
 
 ## ✂️Copy and 📋 Paste
 ### SVG Badge
-[![Image of cniesen/undefined](https://github.com/cniesen/github-views-counter/blob/master/svg/13356146/badge.svg)](https://github.com/cniesen/github-views-counter/blob/master/readme/13356146/week.md)
+[![Image github-views-counter](https://github.com/cniesen/github-views-counter/blob/master/svg/13356146/badge.svg)](https://github.com/cniesen/github-views-counter/blob/master/readme/13356146/week.md)
 ```readme
-[![Image of cniesen/undefined](https://github.com/cniesen/github-views-counter/blob/master/svg/13356146/badge.svg)](https://github.com/cniesen/github-views-counter/blob/master/readme/13356146/week.md)
+[![Image github-views-counter](https://github.com/cniesen/github-views-counter/blob/master/svg/13356146/badge.svg)](https://github.com/cniesen/github-views-counter/blob/master/readme/13356146/week.md)
 ```
 ### Header
-# cniesen/ArduinoPedestrianTrafficLight [<img alt="Image of cniesen/[object Object]" src="https://github.com/cniesen/github-views-counter/blob/master/graph/13356146/small/week.png" height="20">](https://github.com/cniesen/github-views-counter/blob/master/readme/13356146/week.md)
+# cniesen/ArduinoPedestrianTrafficLight [<img alt="Image of github-views-counter" src="https://github.com/cniesen/github-views-counter/blob/master/graph/13356146/small/week.png" height="20">](https://github.com/cniesen/github-views-counter/blob/master/readme/13356146/week.md)
 ```readme
-# cniesen/ArduinoPedestrianTrafficLight [<img alt="Image of cniesen/[object Object]" src="https://github.com/cniesen/github-views-counter/blob/master/graph/13356146/small/week.png" height="20">](https://github.com/cniesen/github-views-counter/blob/master/readme/13356146/week.md)
+# cniesen/ArduinoPedestrianTrafficLight [<img alt="Image of github-views-counter" src="https://github.com/cniesen/github-views-counter/blob/master/graph/13356146/small/week.png" height="20">](https://github.com/cniesen/github-views-counter/blob/master/readme/13356146/week.md)
 ```
 [**Set up GitHub Profile Views Counter for your repositories**](https://github.com/gayanvoice/github-profile-views-counter)
 ## ⛔ DO NOT
