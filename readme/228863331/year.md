@@ -1,8 +1,8 @@
 ## [🔙 github-views-counter](https://github.com/cniesen/github-views-counter)
 | [**Week →**](https://github.com/cniesen/github-views-counter/blob/master/readme/228863331/week.md) | [**Month →**](https://github.com/cniesen/github-views-counter/blob/master/readme/228863331/month.md) | [**Year →**](https://github.com/cniesen/github-views-counter/blob/master/readme/228863331/year.md) |
 | ---- | ---- | ----- |
-### :octocat: [azure-gradle-function](https://github.com/cniesen/azure-gradle-function)
-![Image of github-views-counter](https://github.com/cniesen/github-views-counter/blob/master/graph/228863331/large/year.png)
+### :octocat: [cniesen/azure-gradle-function](https://github.com/cniesen/azure-gradle-function)
+![Image of cniesen/undefined](https://github.com/cniesen/github-views-counter/blob/master/graph/228863331/large/year.png)
 
 <details>
 	<summary>Click to expand table</summary>
@@ -165,18 +165,18 @@
 </table>
 
 </details>
-<small><i>Last updated on 2025/4/7 6:24 PM UTC</i></small>
+<small><i>Last updated on 2025/4/7 9:29 PM UTC</i></small>
 
 ## ✂️Copy and 📋 Paste
 ### SVG Badge
-[![Image of github-views-counter](https://github.com/cniesen/github-views-counter/blob/master/svg/228863331/badge.svg)](https://github.com/cniesen/github-views-counter/blob/master/readme/228863331/week.md)
+[![Image of cniesen/undefined](https://github.com/cniesen/github-views-counter/blob/master/svg/228863331/badge.svg)](https://github.com/cniesen/github-views-counter/blob/master/readme/228863331/week.md)
 ```readme
-[![Image of github-views-counter](https://github.com/cniesen/github-views-counter/blob/master/svg/228863331/badge.svg)](https://github.com/cniesen/github-views-counter/blob/master/readme/228863331/week.md)
+[![Image of cniesen/undefined](https://github.com/cniesen/github-views-counter/blob/master/svg/228863331/badge.svg)](https://github.com/cniesen/github-views-counter/blob/master/readme/228863331/week.md)
 ```
 ### Header
-# azure-gradle-function [<img alt="Image of github-views-counter" src="https://github.com/cniesen/github-views-counter/blob/master/graph/228863331/small/week.png" height="20">](https://github.com/cniesen/github-views-counter/blob/master/readme/228863331/week.md)
+# cniesen/azure-gradle-function [<img alt="Image of cniesen/[object Object]" src="https://github.com/cniesen/github-views-counter/blob/master/graph/228863331/small/week.png" height="20">](https://github.com/cniesen/github-views-counter/blob/master/readme/228863331/week.md)
 ```readme
-# azure-gradle-function [<img alt="Image of github-views-counter" src="https://github.com/cniesen/github-views-counter/blob/master/graph/228863331/small/week.png" height="20">](https://github.com/cniesen/github-views-counter/blob/master/readme/228863331/week.md)
+# cniesen/azure-gradle-function [<img alt="Image of cniesen/[object Object]" src="https://github.com/cniesen/github-views-counter/blob/master/graph/228863331/small/week.png" height="20">](https://github.com/cniesen/github-views-counter/blob/master/readme/228863331/week.md)
 ```
 [**Set up GitHub Profile Views Counter for your repositories**](https://github.com/gayanvoice/github-profile-views-counter)
 ## ⛔ DO NOT

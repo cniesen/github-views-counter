@@ -1,8 +1,8 @@
 ## [🔙 github-views-counter](https://github.com/cniesen/github-views-counter)
 | [**Week →**](https://github.com/cniesen/github-views-counter/blob/master/readme/18067019/week.md) | [**Month →**](https://github.com/cniesen/github-views-counter/blob/master/readme/18067019/month.md) | [**Year →**](https://github.com/cniesen/github-views-counter/blob/master/readme/18067019/year.md) |
 | ---- | ---- | ----- |
-### :octocat: [MysteryColors-Exercise](https://github.com/cniesen/MysteryColors-Exercise)
-![Image of github-views-counter](https://github.com/cniesen/github-views-counter/blob/master/graph/18067019/large/month.png)
+### :octocat: [cniesen/MysteryColors-Exercise](https://github.com/cniesen/MysteryColors-Exercise)
+![Image of cniesen/undefined](https://github.com/cniesen/github-views-counter/blob/master/graph/18067019/large/month.png)
 
 <details>
 	<summary>Click to expand table</summary>
@@ -363,18 +363,18 @@
 </table>
 
 </details>
-<small><i>Last updated on 2025/4/7 6:30 PM UTC</i></small>
+<small><i>Last updated on 2025/4/7 9:34 PM UTC</i></small>
 
 ## ✂️Copy and 📋 Paste
 ### SVG Badge
-[![Image of github-views-counter](https://github.com/cniesen/github-views-counter/blob/master/svg/18067019/badge.svg)](https://github.com/cniesen/github-views-counter/blob/master/readme/18067019/week.md)
+[![Image of cniesen/undefined](https://github.com/cniesen/github-views-counter/blob/master/svg/18067019/badge.svg)](https://github.com/cniesen/github-views-counter/blob/master/readme/18067019/week.md)
 ```readme
-[![Image of github-views-counter](https://github.com/cniesen/github-views-counter/blob/master/svg/18067019/badge.svg)](https://github.com/cniesen/github-views-counter/blob/master/readme/18067019/week.md)
+[![Image of cniesen/undefined](https://github.com/cniesen/github-views-counter/blob/master/svg/18067019/badge.svg)](https://github.com/cniesen/github-views-counter/blob/master/readme/18067019/week.md)
 ```
 ### Header
-# MysteryColors-Exercise [<img alt="Image of github-views-counter" src="https://github.com/cniesen/github-views-counter/blob/master/graph/18067019/small/week.png" height="20">](https://github.com/cniesen/github-views-counter/blob/master/readme/18067019/week.md)
+# cniesen/MysteryColors-Exercise [<img alt="Image of cniesen/[object Object]" src="https://github.com/cniesen/github-views-counter/blob/master/graph/18067019/small/week.png" height="20">](https://github.com/cniesen/github-views-counter/blob/master/readme/18067019/week.md)
 ```readme
-# MysteryColors-Exercise [<img alt="Image of github-views-counter" src="https://github.com/cniesen/github-views-counter/blob/master/graph/18067019/small/week.png" height="20">](https://github.com/cniesen/github-views-counter/blob/master/readme/18067019/week.md)
+# cniesen/MysteryColors-Exercise [<img alt="Image of cniesen/[object Object]" src="https://github.com/cniesen/github-views-counter/blob/master/graph/18067019/small/week.png" height="20">](https://github.com/cniesen/github-views-counter/blob/master/readme/18067019/week.md)
 ```
 [**Set up GitHub Profile Views Counter for your repositories**](https://github.com/gayanvoice/github-profile-views-counter)
 ## ⛔ DO NOT

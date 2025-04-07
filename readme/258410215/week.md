@@ -1,8 +1,8 @@
 ## [🔙 github-views-counter](https://github.com/cniesen/github-views-counter)
 | [**Week →**](https://github.com/cniesen/github-views-counter/blob/master/readme/258410215/week.md) | [**Month →**](https://github.com/cniesen/github-views-counter/blob/master/readme/258410215/month.md) | [**Year →**](https://github.com/cniesen/github-views-counter/blob/master/readme/258410215/year.md) |
 | ---- | ---- | ----- |
-### :octocat: [MediacomInternetDataUsageMonitorAndAlert](https://github.com/cniesen/MediacomInternetDataUsageMonitorAndAlert)
-![Image of github-views-counter](https://github.com/cniesen/github-views-counter/blob/master/graph/258410215/large/week.png)
+### :octocat: [cniesen/MediacomInternetDataUsageMonitorAndAlert](https://github.com/cniesen/MediacomInternetDataUsageMonitorAndAlert)
+![Image of cniesen/undefined](https://github.com/cniesen/github-views-counter/blob/master/graph/258410215/large/week.png)
 
 <details>
 	<summary>Click to expand table</summary>
@@ -110,18 +110,18 @@
 </table>
 
 </details>
-<small><i>Last updated on 2025/4/7 6:29 PM UTC</i></small>
+<small><i>Last updated on 2025/4/7 9:33 PM UTC</i></small>
 
 ## ✂️Copy and 📋 Paste
 ### SVG Badge
-[![Image of github-views-counter](https://github.com/cniesen/github-views-counter/blob/master/svg/258410215/badge.svg)](https://github.com/cniesen/github-views-counter/blob/master/readme/258410215/week.md)
+[![Image of cniesen/undefined](https://github.com/cniesen/github-views-counter/blob/master/svg/258410215/badge.svg)](https://github.com/cniesen/github-views-counter/blob/master/readme/258410215/week.md)
 ```readme
-[![Image of github-views-counter](https://github.com/cniesen/github-views-counter/blob/master/svg/258410215/badge.svg)](https://github.com/cniesen/github-views-counter/blob/master/readme/258410215/week.md)
+[![Image of cniesen/undefined](https://github.com/cniesen/github-views-counter/blob/master/svg/258410215/badge.svg)](https://github.com/cniesen/github-views-counter/blob/master/readme/258410215/week.md)
 ```
 ### Header
-# MediacomInternetDataUsageMonitorAndAlert [<img alt="Image of github-views-counter" src="https://github.com/cniesen/github-views-counter/blob/master/graph/258410215/small/week.png" height="20">](https://github.com/cniesen/github-views-counter/blob/master/readme/258410215/week.md)
+# cniesen/MediacomInternetDataUsageMonitorAndAlert [<img alt="Image of cniesen/[object Object]" src="https://github.com/cniesen/github-views-counter/blob/master/graph/258410215/small/week.png" height="20">](https://github.com/cniesen/github-views-counter/blob/master/readme/258410215/week.md)
 ```readme
-# MediacomInternetDataUsageMonitorAndAlert [<img alt="Image of github-views-counter" src="https://github.com/cniesen/github-views-counter/blob/master/graph/258410215/small/week.png" height="20">](https://github.com/cniesen/github-views-counter/blob/master/readme/258410215/week.md)
+# cniesen/MediacomInternetDataUsageMonitorAndAlert [<img alt="Image of cniesen/[object Object]" src="https://github.com/cniesen/github-views-counter/blob/master/graph/258410215/small/week.png" height="20">](https://github.com/cniesen/github-views-counter/blob/master/readme/258410215/week.md)
 ```
 [**Set up GitHub Profile Views Counter for your repositories**](https://github.com/gayanvoice/github-profile-views-counter)
 ## ⛔ DO NOT
