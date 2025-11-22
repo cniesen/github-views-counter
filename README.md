@@ -343,22 +343,6 @@ What you are seeing here is using a modified github action by [cniesen](https://
 	</tr>
 	<tr>
 		<td>
-			<a href="https://github.com/cniesen/github-views-counter/tree/master/readme/306941413/week.md">
-				OpenBSDRouterDoc
-			</a>
-		</td>
-		<td>
-			2025/11/20 1:30 AM UTC
-		</td>
-		<td>
-			0
-		</td>
-		<td>
-			<img alt="Response time graph" src="https://github.com/cniesen/github-views-counter/raw/master/graph/306941413/small/week.png" height="20"> 0
-		</td>
-	</tr>
-	<tr>
-		<td>
 			<a href="https://github.com/cniesen/github-views-counter/tree/master/readme/273390765/week.md">
 				PotaLogger
 			</a>
@@ -439,7 +423,7 @@ What you are seeing here is using a modified github action by [cniesen](https://
 	</tr>
 </table>
 
-<small><i>Last updated on 2025/11/22 1:30 AM UTC</i></small>
+<small><i>Last updated on 2025/11/22 6:34 AM UTC</i></small>
 
 ## ✂️Copy and 📋 Paste
 ### Total Views Badge
