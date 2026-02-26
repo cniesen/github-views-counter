@@ -263,22 +263,6 @@ What you are seeing here is using a modified github action by [cniesen](https://
 	</tr>
 	<tr>
 		<td>
-			<a href="https://github.com/cniesen/github-views-counter/tree/master/readme/132309199/week.md">
-				morsetrainer
-			</a>
-		</td>
-		<td>
-			2026/2/24 12:00 AM UTC
-		</td>
-		<td>
-			150
-		</td>
-		<td>
-			<img alt="Response time graph" src="https://github.com/cniesen/github-views-counter/raw/master/graph/132309199/small/week.png" height="20"> 272
-		</td>
-	</tr>
-	<tr>
-		<td>
 			<a href="https://github.com/cniesen/github-views-counter/tree/master/readme/328029660/week.md">
 				multi-branch-merge
 			</a>
@@ -423,7 +407,7 @@ What you are seeing here is using a modified github action by [cniesen](https://
 	</tr>
 </table>
 
-<small><i>Last updated on 2026/2/26 1:12 PM UTC</i></small>
+<small><i>Last updated on 2026/2/26 7:01 PM UTC</i></small>
 
 ## ✂️Copy and 📋 Paste
 ### Total Views Badge
