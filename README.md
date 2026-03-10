@@ -359,22 +359,6 @@ What you are seeing here is using a modified github action by [cniesen](https://
 	</tr>
 	<tr>
 		<td>
-			<a href="https://github.com/cniesen/github-views-counter/tree/master/readme/34595257/week.md">
-				ringtonescheduler
-			</a>
-		</td>
-		<td>
-			2026/3/8 2:10 AM UTC
-		</td>
-		<td>
-			0
-		</td>
-		<td>
-			<img alt="Response time graph" src="https://github.com/cniesen/github-views-counter/raw/master/graph/34595257/small/week.png" height="20"> 0
-		</td>
-	</tr>
-	<tr>
-		<td>
 			<a href="https://github.com/cniesen/github-views-counter/tree/master/readme/645483333/week.md">
 				SpringBootJSPApplication
 			</a>
@@ -423,7 +407,7 @@ What you are seeing here is using a modified github action by [cniesen](https://
 	</tr>
 </table>
 
-<small><i>Last updated on 2026/3/10 1:07 PM UTC</i></small>
+<small><i>Last updated on 2026/3/10 6:53 PM UTC</i></small>
 
 ## ✂️Copy and 📋 Paste
 ### Total Views Badge
