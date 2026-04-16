@@ -55,22 +55,6 @@ What you are seeing here is using a modified github action by [cniesen](https://
 	</tr>
 	<tr>
 		<td>
-			<a href="https://github.com/cniesen/github-views-counter/tree/master/readme/461256113/week.md">
-				chirp
-			</a>
-		</td>
-		<td>
-			2026/4/14 2:30 AM UTC
-		</td>
-		<td>
-			1
-		</td>
-		<td>
-			<img alt="Response time graph" src="https://github.com/cniesen/github-views-counter/raw/master/graph/461256113/small/week.png" height="20"> 1
-		</td>
-	</tr>
-	<tr>
-		<td>
 			<a href="https://github.com/cniesen/github-views-counter/tree/master/readme/109631138/week.md">
 				CodeWarsJava
 			</a>
@@ -279,22 +263,6 @@ What you are seeing here is using a modified github action by [cniesen](https://
 	</tr>
 	<tr>
 		<td>
-			<a href="https://github.com/cniesen/github-views-counter/tree/master/readme/328029660/week.md">
-				multi-branch-merge
-			</a>
-		</td>
-		<td>
-			2026/4/14 2:35 AM UTC
-		</td>
-		<td>
-			0
-		</td>
-		<td>
-			<img alt="Response time graph" src="https://github.com/cniesen/github-views-counter/raw/master/graph/328029660/small/week.png" height="20"> 0
-		</td>
-	</tr>
-	<tr>
-		<td>
 			<a href="https://github.com/cniesen/github-views-counter/tree/master/readme/18067019/week.md">
 				MysteryColors-Exercise
 			</a>
@@ -423,7 +391,7 @@ What you are seeing here is using a modified github action by [cniesen](https://
 	</tr>
 </table>
 
-<small><i>Last updated on 2026/4/16 1:37 PM UTC</i></small>
+<small><i>Last updated on 2026/4/16 7:20 PM UTC</i></small>
 
 ## ✂️Copy and 📋 Paste
 ### Total Views Badge
