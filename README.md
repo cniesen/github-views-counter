@@ -87,6 +87,38 @@ What you are seeing here is using a modified github action by [cniesen](https://
 	</tr>
 	<tr>
 		<td>
+			<a href="https://github.com/cniesen/github-views-counter/tree/master/readme/28012240/week.md">
+				GarageSpring
+			</a>
+		</td>
+		<td>
+			2026/6/8 3:57 AM UTC
+		</td>
+		<td>
+			0
+		</td>
+		<td>
+			<img alt="Response time graph" src="https://github.com/cniesen/github-views-counter/raw/master/graph/28012240/small/week.png" height="20"> 0
+		</td>
+	</tr>
+	<tr>
+		<td>
+			<a href="https://github.com/cniesen/github-views-counter/tree/master/readme/820744089/week.md">
+				GaugeExample
+			</a>
+		</td>
+		<td>
+			2026/6/8 3:57 AM UTC
+		</td>
+		<td>
+			0
+		</td>
+		<td>
+			<img alt="Response time graph" src="https://github.com/cniesen/github-views-counter/raw/master/graph/820744089/small/week.png" height="20"> 0
+		</td>
+	</tr>
+	<tr>
+		<td>
 			<a href="https://github.com/cniesen/github-views-counter/tree/master/readme/959841029/week.md">
 				github-views-counter
 			</a>
@@ -131,6 +163,22 @@ What you are seeing here is using a modified github action by [cniesen](https://
 		</td>
 		<td>
 			<img alt="Response time graph" src="https://github.com/cniesen/github-views-counter/raw/master/graph/31437827/small/week.png" height="20"> 6
+		</td>
+	</tr>
+	<tr>
+		<td>
+			<a href="https://github.com/cniesen/github-views-counter/tree/master/readme/168615078/week.md">
+				gradledemo
+			</a>
+		</td>
+		<td>
+			2026/6/8 3:58 AM UTC
+		</td>
+		<td>
+			0
+		</td>
+		<td>
+			<img alt="Response time graph" src="https://github.com/cniesen/github-views-counter/raw/master/graph/168615078/small/week.png" height="20"> 0
 		</td>
 	</tr>
 	<tr>
@@ -263,6 +311,38 @@ What you are seeing here is using a modified github action by [cniesen](https://
 	</tr>
 	<tr>
 		<td>
+			<a href="https://github.com/cniesen/github-views-counter/tree/master/readme/273390765/week.md">
+				PotaLogger
+			</a>
+		</td>
+		<td>
+			2026/6/8 4:02 AM UTC
+		</td>
+		<td>
+			93
+		</td>
+		<td>
+			<img alt="Response time graph" src="https://github.com/cniesen/github-views-counter/raw/master/graph/273390765/small/week.png" height="20"> 113
+		</td>
+	</tr>
+	<tr>
+		<td>
+			<a href="https://github.com/cniesen/github-views-counter/tree/master/readme/34595257/week.md">
+				ringtonescheduler
+			</a>
+		</td>
+		<td>
+			2026/6/8 4:02 AM UTC
+		</td>
+		<td>
+			0
+		</td>
+		<td>
+			<img alt="Response time graph" src="https://github.com/cniesen/github-views-counter/raw/master/graph/34595257/small/week.png" height="20"> 0
+		</td>
+	</tr>
+	<tr>
+		<td>
 			<a href="https://github.com/cniesen/github-views-counter/tree/master/readme/645483333/week.md">
 				SpringBootJSPApplication
 			</a>
@@ -275,6 +355,22 @@ What you are seeing here is using a modified github action by [cniesen](https://
 		</td>
 		<td>
 			<img alt="Response time graph" src="https://github.com/cniesen/github-views-counter/raw/master/graph/645483333/small/week.png" height="20"> 2
+		</td>
+	</tr>
+	<tr>
+		<td>
+			<a href="https://github.com/cniesen/github-views-counter/tree/master/readme/226404579/week.md">
+				cqqrz/cqqrz.github.io
+			</a>
+		</td>
+		<td>
+			2026/6/8 4:03 AM UTC
+		</td>
+		<td>
+			13
+		</td>
+		<td>
+			<img alt="Response time graph" src="https://github.com/cniesen/github-views-counter/raw/master/graph/226404579/small/week.png" height="20"> 13
 		</td>
 	</tr>
 	<tr>
@@ -295,7 +391,7 @@ What you are seeing here is using a modified github action by [cniesen](https://
 	</tr>
 </table>
 
-<small><i>Last updated on 2026/6/10 3:38 PM UTC</i></small>
+<small><i>Last updated on 2026/6/10 8:35 PM UTC</i></small>
 
 ## ✂️Copy and 📋 Paste
 ### Total Views Badge
