@@ -28,7 +28,7 @@ What you are seeing here is using a modified github action by [cniesen](https://
 			</a>
 		</td>
 		<td>
-			2026/8/15 1:07 AM UTC
+			2026/8/16 1:11 AM UTC
 		</td>
 		<td>
 			7
@@ -44,7 +44,7 @@ What you are seeing here is using a modified github action by [cniesen](https://
 			</a>
 		</td>
 		<td>
-			2026/8/15 1:08 AM UTC
+			2026/8/16 1:12 AM UTC
 		</td>
 		<td>
 			1
@@ -60,7 +60,7 @@ What you are seeing here is using a modified github action by [cniesen](https://
 			</a>
 		</td>
 		<td>
-			2026/8/15 1:08 AM UTC
+			2026/8/16 1:12 AM UTC
 		</td>
 		<td>
 			0
@@ -76,7 +76,7 @@ What you are seeing here is using a modified github action by [cniesen](https://
 			</a>
 		</td>
 		<td>
-			2026/8/15 1:08 AM UTC
+			2026/8/16 1:13 AM UTC
 		</td>
 		<td>
 			9
@@ -92,7 +92,7 @@ What you are seeing here is using a modified github action by [cniesen](https://
 			</a>
 		</td>
 		<td>
-			2026/8/15 1:09 AM UTC
+			2026/8/16 1:13 AM UTC
 		</td>
 		<td>
 			0
@@ -108,7 +108,7 @@ What you are seeing here is using a modified github action by [cniesen](https://
 			</a>
 		</td>
 		<td>
-			2026/8/15 1:09 AM UTC
+			2026/8/16 1:13 AM UTC
 		</td>
 		<td>
 			0
@@ -124,7 +124,7 @@ What you are seeing here is using a modified github action by [cniesen](https://
 			</a>
 		</td>
 		<td>
-			2026/8/15 1:09 AM UTC
+			2026/8/16 1:14 AM UTC
 		</td>
 		<td>
 			3
@@ -133,9 +133,265 @@ What you are seeing here is using a modified github action by [cniesen](https://
 			<img alt="Response time graph" src="https://github.com/cniesen/github-views-counter/raw/master/graph/959841029/small/week.png" height="20"> 5
 		</td>
 	</tr>
+	<tr>
+		<td>
+			<a href="https://github.com/cniesen/github-views-counter/tree/master/readme/959868302/week.md">
+				github-profile-views-counter-action
+			</a>
+		</td>
+		<td>
+			2026/8/16 1:14 AM UTC
+		</td>
+		<td>
+			9
+		</td>
+		<td>
+			<img alt="Response time graph" src="https://github.com/cniesen/github-views-counter/raw/master/graph/959868302/small/week.png" height="20"> 121
+		</td>
+	</tr>
+	<tr>
+		<td>
+			<a href="https://github.com/cniesen/github-views-counter/tree/master/readme/31437827/week.md">
+				GitHubBackup
+			</a>
+		</td>
+		<td>
+			2026/8/16 1:14 AM UTC
+		</td>
+		<td>
+			5
+		</td>
+		<td>
+			<img alt="Response time graph" src="https://github.com/cniesen/github-views-counter/raw/master/graph/31437827/small/week.png" height="20"> 7
+		</td>
+	</tr>
+	<tr>
+		<td>
+			<a href="https://github.com/cniesen/github-views-counter/tree/master/readme/168615078/week.md">
+				gradledemo
+			</a>
+		</td>
+		<td>
+			2026/8/16 1:15 AM UTC
+		</td>
+		<td>
+			0
+		</td>
+		<td>
+			<img alt="Response time graph" src="https://github.com/cniesen/github-views-counter/raw/master/graph/168615078/small/week.png" height="20"> 0
+		</td>
+	</tr>
+	<tr>
+		<td>
+			<a href="https://github.com/cniesen/github-views-counter/tree/master/readme/616172503/week.md">
+				HammyWammy
+			</a>
+		</td>
+		<td>
+			2026/8/16 1:15 AM UTC
+		</td>
+		<td>
+			2
+		</td>
+		<td>
+			<img alt="Response time graph" src="https://github.com/cniesen/github-views-counter/raw/master/graph/616172503/small/week.png" height="20"> 2
+		</td>
+	</tr>
+	<tr>
+		<td>
+			<a href="https://github.com/cniesen/github-views-counter/tree/master/readme/212204071/week.md">
+				HelloWorld
+			</a>
+		</td>
+		<td>
+			2026/8/16 1:15 AM UTC
+		</td>
+		<td>
+			0
+		</td>
+		<td>
+			<img alt="Response time graph" src="https://github.com/cniesen/github-views-counter/raw/master/graph/212204071/small/week.png" height="20"> 0
+		</td>
+	</tr>
+	<tr>
+		<td>
+			<a href="https://github.com/cniesen/github-views-counter/tree/master/readme/248650050/week.md">
+				IcomClockOmniRig
+			</a>
+		</td>
+		<td>
+			2026/8/16 1:16 AM UTC
+		</td>
+		<td>
+			321
+		</td>
+		<td>
+			<img alt="Response time graph" src="https://github.com/cniesen/github-views-counter/raw/master/graph/248650050/small/week.png" height="20"> 436
+		</td>
+	</tr>
+	<tr>
+		<td>
+			<a href="https://github.com/cniesen/github-views-counter/tree/master/readme/258410215/week.md">
+				MediacomInternetDataUsageMonitorAndAlert
+			</a>
+		</td>
+		<td>
+			2026/8/16 1:16 AM UTC
+		</td>
+		<td>
+			1
+		</td>
+		<td>
+			<img alt="Response time graph" src="https://github.com/cniesen/github-views-counter/raw/master/graph/258410215/small/week.png" height="20"> 1
+		</td>
+	</tr>
+	<tr>
+		<td>
+			<a href="https://github.com/cniesen/github-views-counter/tree/master/readme/132309199/week.md">
+				morsetrainer
+			</a>
+		</td>
+		<td>
+			2026/8/16 1:16 AM UTC
+		</td>
+		<td>
+			222
+		</td>
+		<td>
+			<img alt="Response time graph" src="https://github.com/cniesen/github-views-counter/raw/master/graph/132309199/small/week.png" height="20"> 391
+		</td>
+	</tr>
+	<tr>
+		<td>
+			<a href="https://github.com/cniesen/github-views-counter/tree/master/readme/18067019/week.md">
+				MysteryColors-Exercise
+			</a>
+		</td>
+		<td>
+			2026/8/16 1:17 AM UTC
+		</td>
+		<td>
+			0
+		</td>
+		<td>
+			<img alt="Response time graph" src="https://github.com/cniesen/github-views-counter/raw/master/graph/18067019/small/week.png" height="20"> 0
+		</td>
+	</tr>
+	<tr>
+		<td>
+			<a href="https://github.com/cniesen/github-views-counter/tree/master/readme/231881532/week.md">
+				NetLoggerElf
+			</a>
+		</td>
+		<td>
+			2026/8/16 1:17 AM UTC
+		</td>
+		<td>
+			34
+		</td>
+		<td>
+			<img alt="Response time graph" src="https://github.com/cniesen/github-views-counter/raw/master/graph/231881532/small/week.png" height="20"> 40
+		</td>
+	</tr>
+	<tr>
+		<td>
+			<a href="https://github.com/cniesen/github-views-counter/tree/master/readme/172365779/week.md">
+				okta-springboot-example
+			</a>
+		</td>
+		<td>
+			2026/8/16 1:17 AM UTC
+		</td>
+		<td>
+			11
+		</td>
+		<td>
+			<img alt="Response time graph" src="https://github.com/cniesen/github-views-counter/raw/master/graph/172365779/small/week.png" height="20"> 12
+		</td>
+	</tr>
+	<tr>
+		<td>
+			<a href="https://github.com/cniesen/github-views-counter/tree/master/readme/273390765/week.md">
+				PotaLogger
+			</a>
+		</td>
+		<td>
+			2026/8/16 1:18 AM UTC
+		</td>
+		<td>
+			98
+		</td>
+		<td>
+			<img alt="Response time graph" src="https://github.com/cniesen/github-views-counter/raw/master/graph/273390765/small/week.png" height="20"> 119
+		</td>
+	</tr>
+	<tr>
+		<td>
+			<a href="https://github.com/cniesen/github-views-counter/tree/master/readme/34595257/week.md">
+				ringtonescheduler
+			</a>
+		</td>
+		<td>
+			2026/8/16 1:18 AM UTC
+		</td>
+		<td>
+			0
+		</td>
+		<td>
+			<img alt="Response time graph" src="https://github.com/cniesen/github-views-counter/raw/master/graph/34595257/small/week.png" height="20"> 0
+		</td>
+	</tr>
+	<tr>
+		<td>
+			<a href="https://github.com/cniesen/github-views-counter/tree/master/readme/645483333/week.md">
+				SpringBootJSPApplication
+			</a>
+		</td>
+		<td>
+			2026/8/16 1:18 AM UTC
+		</td>
+		<td>
+			2
+		</td>
+		<td>
+			<img alt="Response time graph" src="https://github.com/cniesen/github-views-counter/raw/master/graph/645483333/small/week.png" height="20"> 2
+		</td>
+	</tr>
+	<tr>
+		<td>
+			<a href="https://github.com/cniesen/github-views-counter/tree/master/readme/226404579/week.md">
+				cqqrz/cqqrz.github.io
+			</a>
+		</td>
+		<td>
+			2026/8/16 1:19 AM UTC
+		</td>
+		<td>
+			14
+		</td>
+		<td>
+			<img alt="Response time graph" src="https://github.com/cniesen/github-views-counter/raw/master/graph/226404579/small/week.png" height="20"> 14
+		</td>
+	</tr>
+	<tr>
+		<td>
+			<a href="https://github.com/cniesen/github-views-counter/tree/master/readme/232171066/week.md">
+				AmateurRadioSoftwareAward/AmateurRadioSoftwareAward.github.io
+			</a>
+		</td>
+		<td>
+			2026/8/16 1:19 AM UTC
+		</td>
+		<td>
+			15
+		</td>
+		<td>
+			<img alt="Response time graph" src="https://github.com/cniesen/github-views-counter/raw/master/graph/232171066/small/week.png" height="20"> 31
+		</td>
+	</tr>
 </table>
 
-<small><i>Last updated on 2026/8/17 6:39 PM UTC</i></small>
+<small><i>Last updated on 2026/8/18 1:15 AM UTC</i></small>
 
 ## ✂️Copy and 📋 Paste
 ### Total Views Badge
